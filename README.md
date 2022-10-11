@@ -32,7 +32,7 @@ You can Download almost anything From your Instagram Account.
 
 **Available Commands and Usage**
 ```
-/start - Check wheather bot alive.
+/start - Check whether bot alive.
 /restart - Restart the bot (If you messed up anything use /restart.)
 /help - Shows this menu.
 /login - Login into your account.
@@ -44,7 +44,7 @@ Example : /posts samantharuthprabhuoffl
 
 /igtv <username> - Download IGTV videos from given username. If no username given, downloads your IGTV.
 
-/feed <number of posts to download> - Downloads posts from your feed.If no number specified all posts from feed will be downloaded.
+/feed <number of posts to download> - Downloads posts from your feed. If no number specified all posts from feed will be downloaded.
 Example: /feed 10 to download latest 10 posts from feed.
 
 /saved <number of posts to download> - Downloads your saved posts. If no number specified all saved posts will be downloaded.
